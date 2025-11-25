@@ -6,9 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.UUID;
+import java.util.*;
 
 public class GameEventLogger {
     private static final String LOG_FILE = "logs/game_event_log.csv";
@@ -38,15 +36,15 @@ public class GameEventLogger {
                          String questionValue, String answerGiven, String result, String scoreAfterPlay) {
         String timestamp = LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME);
         String event = String.join(",",
-                caseId,
-                playerId != null ? playerId : "",
-                activity,
-                timestamp,
-                category != null ? category : "",
-                questionValue != null ? questionValue : "",
-                answerGiven != null ? answerGiven : "",
-                result != null ? result : "",
-                scoreAfterPlay != null ? scoreAfterPlay : ""
+                    caseId,
+                    playerId != null ? playerId : "",
+                    activity,
+                    timestamp,
+                    category != null ? category : "",
+                    questionValue != null ? questionValue : "",
+                    answerGiven != null ? answerGiven : "",
+                    result != null ? result : "",
+                    scoreAfterPlay != null ? scoreAfterPlay : ""
         );
         
         events.add(event);
@@ -66,7 +64,6 @@ public class GameEventLogger {
         }
     }
 
-    // ... rest of the logging methods remain the same ...
     // Specific logging methods
     public void logGameStart() {
         logEvent(null, "Start Game", null, null, null, null, null);
