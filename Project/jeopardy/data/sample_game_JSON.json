@@ -1,0 +1,302 @@
+[
+    {
+        "Category": "Variables & Data Types",
+        "Value": 100,
+        "Question": "Which of the following declares an integer variable in C++?",
+        "Options": {
+            "A": "int num;",
+            "B": "float num;",
+            "C": "num int;",
+            "D": "integer num;"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "Variables & Data Types",
+        "Value": 200,
+        "Question": "Which data type is used to store a single character?",
+        "Options": {
+            "A": "string",
+            "B": "char",
+            "C": "bool",
+            "D": "text"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Variables & Data Types",
+        "Value": 300,
+        "Question": "What is the value of x after int x = 5/2;?",
+        "Options": {
+            "A": "2",
+            "B": "2.5",
+            "C": "3",
+            "D": "2.0"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "Variables & Data Types",
+        "Value": 400,
+        "Question": "Which of the following is a floating-point literal?",
+        "Options": {
+            "A": "10",
+            "B": "5.0",
+            "C": "'A'",
+            "D": "true"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Variables & Data Types",
+        "Value": 500,
+        "Question": "Which operator is used to get the remainder?",
+        "Options": {
+            "A": "/",
+            "B": "%",
+            "C": "-",
+            "D": "*"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Control Structures",
+        "Value": 100,
+        "Question": "Which statement is used to make a decision?",
+        "Options": {
+            "A": "if",
+            "B": "while",
+            "C": "for",
+            "D": "switch"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "Control Structures",
+        "Value": 200,
+        "Question": "What is the output of: if (5 > 10) cout << 'Hi'; else cout << 'Bye';",
+        "Options": {
+            "A": "Hi",
+            "B": "Bye",
+            "C": "Error",
+            "D": "Nothing"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Control Structures",
+        "Value": 300,
+        "Question": "Which loop always executes at least once?",
+        "Options": {
+            "A": "for",
+            "B": "while",
+            "C": "do-while",
+            "D": "if"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Category": "Control Structures",
+        "Value": 400,
+        "Question": "Which keyword exits a loop immediately?",
+        "Options": {
+            "A": "continue",
+            "B": "exit",
+            "C": "stop",
+            "D": "break"
+        },
+        "CorrectAnswer": "D"
+    },
+    {
+        "Category": "Control Structures",
+        "Value": 500,
+        "Question": "How many times will the loop for(int i=0;i<3;i++) run?",
+        "Options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "0"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Functions",
+        "Value": 100,
+        "Question": "Which keyword is used to define a function returning no value?",
+        "Options": {
+            "A": "return",
+            "B": "void",
+            "C": "int",
+            "D": "empty"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Functions",
+        "Value": 200,
+        "Question": "What is the purpose of a function parameter?",
+        "Options": {
+            "A": "Store output",
+            "B": "Pass data into function",
+            "C": "Return value",
+            "D": "Stop execution"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Functions",
+        "Value": 300,
+        "Question": "What is the return type of int add(int a, int b)?",
+        "Options": {
+            "A": "int",
+            "B": "void",
+            "C": "double",
+            "D": "none"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "Functions",
+        "Value": 400,
+        "Question": "Which statement exits a function and sends a value back?",
+        "Options": {
+            "A": "break",
+            "B": "return",
+            "C": "exit",
+            "D": "stop"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Functions",
+        "Value": 500,
+        "Question": "If a function is not declared before use, what may happen?",
+        "Options": {
+            "A": "Nothing",
+            "B": "Compilation error",
+            "C": "Runtime error",
+            "D": "Warning"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Arrays",
+        "Value": 100,
+        "Question": "Which declares an array of 5 integers?",
+        "Options": {
+            "A": "int arr[5];",
+            "B": "array<int> arr;",
+            "C": "int arr;",
+            "D": "int arr(5);"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "Arrays",
+        "Value": 200,
+        "Question": "What is the index of the first element in a C++ array?",
+        "Options": {
+            "A": "1",
+            "B": "0",
+            "C": "-1",
+            "D": "None"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Arrays",
+        "Value": 300,
+        "Question": "Which loop is best for iterating a fixed-size array?",
+        "Options": {
+            "A": "while",
+            "B": "do-while",
+            "C": "for",
+            "D": "if"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Category": "Arrays",
+        "Value": 400,
+        "Question": "What happens if you access out-of-range index?",
+        "Options": {
+            "A": "Zero returned",
+            "B": "Random value",
+            "C": "Runtime error",
+            "D": "Compilation error"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "Arrays",
+        "Value": 500,
+        "Question": "How many elements in int arr[3][4];?",
+        "Options": {
+            "A": "7",
+            "B": "12",
+            "C": "3",
+            "D": "4"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "File Handling",
+        "Value": 100,
+        "Question": "Which header file is used for file I/O?",
+        "Options": {
+            "A": "fstream",
+            "B": "iostream",
+            "C": "file",
+            "D": "stdio.h"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Category": "File Handling",
+        "Value": 200,
+        "Question": "Which stream is used to write to a file?",
+        "Options": {
+            "A": "ifstream",
+            "B": "ofstream",
+            "C": "fstream",
+            "D": "cout"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "Category": "File Handling",
+        "Value": 300,
+        "Question": "Which method opens a file in append mode?",
+        "Options": {
+            "A": "open('file.txt')",
+            "B": "open('file.txt', ios::in)",
+            "C": "open('file.txt', ios::app)",
+            "D": "open('file.txt', ios::out)"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Category": "File Handling",
+        "Value": 400,
+        "Question": "Which function closes a file?",
+        "Options": {
+            "A": "stop()",
+            "B": "end()",
+            "C": "close()",
+            "D": "exit()"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Category": "File Handling",
+        "Value": 500,
+        "Question": "What happens if a file fails to open?",
+        "Options": {
+            "A": "Program crashes",
+            "B": "Nothing happens",
+            "C": "Error flag is set",
+            "D": "File is created"
+        },
+        "CorrectAnswer": "C"
+    }
+]

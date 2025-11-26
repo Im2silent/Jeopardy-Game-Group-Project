@@ -1,0 +1,24 @@
+Case_ID,Player_ID,Activity,Timestamp,Category,Question_Value,Answer_Given,Result,Score_After_Play
+GAME001,System,Start Game,2024-11-10T10:00:00,,,,,
+GAME001,System,Load File,2024-11-10T10:00:02,,,,Success,
+GAME001,System,Select Player Count,2024-11-10T10:00:04,,,2,N/A,
+GAME001,Alice,Enter Player Name,2024-11-10T10:00:06,,,Alice,N/A,
+GAME001,Bob,Enter Player Name,2024-11-10T10:00:08,,,Bob,N/A,
+GAME001,Alice,Select Category,2024-11-10T10:00:10,Variables & Data Types,,,,0
+GAME001,Alice,Select Question,2024-11-10T10:00:15,Variables & Data Types,100,,,0
+GAME001,Alice,Answer Question,2024-11-10T10:00:25,Variables & Data Types,100,int num;,Correct,100
+GAME001,Bob,Select Category,2024-11-10T10:00:30,Control Structures,,,,0
+GAME001,Bob,Select Question,2024-11-10T10:00:35,Control Structures,300,,,0
+GAME001,Bob,Answer Question,2024-11-10T10:00:45,Control Structures,300,do-while,Correct,300
+GAME001,Alice,Select Category,2024-11-10T10:00:50,Functions,,,,100
+GAME001,Alice,Select Question,2024-11-10T10:00:55,Functions,200,,,100
+GAME001,Alice,Answer Question,2024-11-10T10:01:05,Functions,200,Pass data into function,Correct,300
+GAME001,Bob,Select Category,2024-11-10T10:01:10,Arrays,,,,300
+GAME001,Bob,Select Question,2024-11-10T10:01:15,Arrays,400,,,300
+GAME001,Bob,Answer Question,2024-11-10T10:01:25,Arrays,400,Random value,Correct,700
+GAME001,Alice,Select Category,2024-11-10T10:01:30,File Handling,,,,300
+GAME001,Alice,Select Question,2024-11-10T10:01:35,File Handling,200,,,300
+GAME001,Alice,Answer Question,2024-11-10T10:01:45,File Handling,200,ofstream,Correct,500
+GAME001,System,Generate Report,2024-11-10T10:01:55,,,,N/A,
+GAME001,System,Generate Event Log,2024-11-10T10:02:00,,,,N/A,
+GAME001,System,Exit Game,2024-11-10T10:02:05,,,,,

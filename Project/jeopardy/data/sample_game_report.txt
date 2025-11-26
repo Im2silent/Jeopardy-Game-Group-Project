@@ -1,0 +1,37 @@
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME001
+
+Players: Alice, Bob
+
+Gameplay Summary:
+-----------------
+Turn 1: Alice selected Variables & Data Types for 100 pts
+Question: Which of the following declares an integer variable in C++?
+Answer: int num; — Correct (+100 pts)
+Score after turn: Alice = 100
+
+Turn 2: Bob selected Control Structures for 300 pts
+Question: Which loop always executes at least once?
+Answer: do-while — Correct (+300 pts)
+Score after turn: Bob = 300
+
+Turn 3: Alice selected Functions for 200 pts
+Question: What is the purpose of a function parameter?
+Answer: Pass data into function — Correct (+200 pts)
+Score after turn: Alice = 300
+
+Turn 4: Bob selected Arrays for 400 pts
+Question: What happens if you access out-of-range index?
+Answer: Random value — Correct (+400 pts)
+Score after turn: Bob = 700
+
+Turn 5: Alice selected File Handling for 200 pts
+Question: Which stream is used to write to a file?
+Answer: ofstream — Correct (+200 pts)
+Score after turn: Alice = 500
+
+Final Scores:
+Alice: 500
+Bob: 700
