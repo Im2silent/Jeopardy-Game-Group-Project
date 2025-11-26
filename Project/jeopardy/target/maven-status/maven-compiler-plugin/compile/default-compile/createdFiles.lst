@@ -1,0 +1,11 @@
+com\project\QuestionLoaderFactory.class
+com\project\GameService.class
+com\project\GameTurn.class
+com\project\XMLQuestionAdapter.class
+com\project\QuestionResult.class
+com\project\JSONQuestionAdapter.class
+com\project\Player.class
+com\project\GameEventLogger.class
+com\project\CSVQuestionAdapter.class
+com\project\Question.class
+com\project\QuestionDataAdapter.class
