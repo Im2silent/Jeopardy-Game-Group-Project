@@ -1,7 +1,7 @@
 com\project\QuestionLoaderFactory.class
+com\project\XMLQuestionAdapter.class
 com\project\GameService.class
 com\project\GameTurn.class
-com\project\XMLQuestionAdapter.class
 com\project\QuestionResult.class
 com\project\JSONQuestionAdapter.class
 com\project\Player.class

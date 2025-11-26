@@ -1,0 +1,4 @@
+Case_ID,Player_ID,Activity,Timestamp,Category,Question_Value,Answer_Given,Result,Score_After_Play
+d171c665-47bf-4a4a-b3e8-44d3e73d9305,,Start Game,2025-11-26T19:14:35.7171236,,,,,
+d171c665-47bf-4a4a-b3e8-44d3e73d9305,P1,Answer Question,2025-11-26T19:14:35.7191235,Lion,100,Answer1,Correct,100
+d171c665-47bf-4a4a-b3e8-44d3e73d9305,P2,Answer Question,2025-11-26T19:14:35.7201243,Pig,200,Answer2,Correct,200

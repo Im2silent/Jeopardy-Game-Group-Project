@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/trinc/.m2/repository/org/json/json/20231013/json-20231013.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'C:/Users/trinc/Downloads/Jeopardy-Game-Group-Project/Project/jeopardy/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/trinc/Downloads/Jeopardy-Game-Group-Project/Project/jeopardy/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jeopardy 1 API'
+-use
+-version
+-windowtitle
+'jeopardy 1 API'
+com.project
+C:\Users\trinc\.m2\repository\org\json\json\20231013\json-20231013.jar = 1764190961336
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\src\main\java = 1764190892077
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\allclasses-index.html = 1764198949027
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\allpackages-index.html = 1764198949032
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\element-list = 1764198948786
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\help-doc.html = 1764198949108
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\index-all.html = 1764198949092
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\index.html = 1764198949100
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\member-search-index.js = 1764198949043
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\module-search-index.js = 1764198949034
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\overview-tree.html = 1764198948991
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\package-search-index.js = 1764198949038
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\search.html = 1764198949097
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\tag-search-index.js = 1764198949046
+C:\Users\trinc\Downloads\Jeopardy-Game-Group-Project\Project\jeopardy\target\reports\apidocs\type-search-index.js = 1764198949040
